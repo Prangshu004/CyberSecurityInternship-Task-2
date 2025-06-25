@@ -1,0 +1,23 @@
+From: support@secure-update.com
+To: you@example.com
+Subject: URGENT: Your Account Will Be Locked!
+Date: Mon, 23 Jun 2025 08:34:17 -0500
+Reply-To: secure-notify@security-update.ru
+
+Dear Valued Customer,
+
+We have detected unusual activity in your account and your access has been temporarily restricted for your safety. Please verify your identity immediately to avoid permanent suspension.
+
+Failure to do so within 24 hours will result in your account being **permanently blocked**.
+
+Click the link below to restore access:
+👉 http://secure-update.com/login.verify.account-safety.com
+
+If you do not take action, your account will be permanently deleted due to violation of our terms.
+
+Thank you for your prompt attention.
+
+Sincerely,  
+Security Team  
+SecureUpdate Inc.  
+
